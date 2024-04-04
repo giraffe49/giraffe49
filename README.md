@@ -6,7 +6,7 @@
 
 - 🌱 I’m major in [**MIE**](https://me.ntue.edu.tw/) at [**NTUE**](https://www.ntue.edu.tw/) in Taiwan !!
 
-- 👨‍💻 All of my projects are available at [**repositories page**](https://github.com/THChen2002?tab=repositories)
+- 👨‍💻 All of my projects are available at [**repositories page**](https://github.com/giraffe49?tab=repositories)
 
 - 📫 You can reach me at **hsinpei0409@gmail.com**
 
