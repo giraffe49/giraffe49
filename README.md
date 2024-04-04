@@ -1,56 +1,33 @@
 ### Hi there 👋
 
-<h1 align="center">Hello, I'm Terry</h1>
+<h1 align="center">Hello, I'm Pei</h1>
 <p align="center">
-    <a href="https://github.com/THChen2002/" rel="noreferrer noopener">
-        <img src="../data/github-metrics.svg" />
-        <img src="../data/github-snake.svg" />
-    </a>
 </p>
----
 
 - 🌱 I’m major in [**MIE**](https://me.ntue.edu.tw/) at [**NTUE**](https://www.ntue.edu.tw/) in Taiwan !!
 
 - 👨‍💻 All of my projects are available at [**repositories page**](https://github.com/THChen2002?tab=repositories)
 
-- 📫 You can reach me at **terryhorse2002@gmail.com**
+- 📫 You can reach me at **hsinpei0409@gmail.com**
 
 ---
 
 ## Something I use
 ### Languages:
 <p align="left">
-    <a href="https://html.spec.whatwg.org/" target="_blank" rel="noreferrer noopener">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="40" height="40" />
-    </a>
-    <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer noopener">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="40" height="40" />
-    </a>
-    <a href="https://www.ecma-international.org/publications-and-standards/standards/ecma-262/" target="_blank" rel="noreferrer noopener">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
-    </a>
     <a href="https://www.python.org" target="_blank" rel="noreferrer noopener">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40" />
     </a>
     <a href="https://www.java.com" target="_blank" rel="noreferrer noopener">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="40" height="40"/>
     </a>
-    <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer noopener">
+    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer noopener">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40" />
     </a>
 </p>
 
 ### Framework:
 <p align="left">
-    <a href="https://jquery.com/" target="_blank" rel="noreferrer noopener">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" alt="jquery" width="40" height="40" />
-    </a>
-    <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer noopener">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40" />
-    </a>
-    <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer noopener">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" alt="dotnet" width="40" height="40" />
-    </a>
     <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer noopener">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="django" width="40" height="40"/>
     </a>
@@ -64,14 +41,8 @@
     <a href="https://about.gitlab.com/" target="_blank" rel="noreferrer noopener">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="40" height="40" />
     </a>
-    <a href="https://gitlab.com/" target="_blank" rel="noreferrer noopener">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" alt="gitlab" width="40" height="40" />
-    </a>
     <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer noopener">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40" />
-    </a>
-    <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer noopener">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="visualstudio" width="40" height="40" />
     </a>
     <a href="https://www.microsoft.com/zh-tw/sql-server" target="_blank" rel="noreferrer noopener">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="sqlserver" width="40" height="40" />
@@ -81,8 +52,8 @@
 
 <h3 align="left">Others:</h3>
 <p align="left">
-    <a href="https://leetcode.com/thchen2002/" target="_blank" rel="noreferrer noopener">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/LeetCode_logo_white_no_text.svg" alt="thchen2002" height="40" width="40" />
+    <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer noopener">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/arduino/arduino-original.svg" alt="arduino" height="40" width="40" />
     </a>
 </p>
 <!--
